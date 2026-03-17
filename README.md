@@ -50,5 +50,4 @@ npm run dev
 
 ## Notes
 
-- Do not commit `node_modules` or real `.env` files.
 - If you need database setup, check `server/prisma` for schema and seeds.
